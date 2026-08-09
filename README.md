@@ -10,24 +10,24 @@
 <table align="center">
 <tr>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="28" height="28" alt="AWS" /><br/>
-<sub>AWS</sub>
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="28" height="28" alt="Microsoft Azure" /><br/>
+<sub>Azure</sub>
 </td>
 <td align="center" width="110">
 <img src="https://cdn.simpleicons.org/terraform/844FBA" width="28" height="28" alt="Terraform" /><br/>
 <sub>Terraform</sub>
 </td>
 <td align="center" width="110">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" alt="Docker" /><br/>
+<sub>Docker</sub>
+</td>
+<td align="center" width="110">
 <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="28" height="28" alt="Kubernetes" /><br/>
 <sub>Kubernetes</sub>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" /><br/>
-<sub>GitHub Actions</sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="28" height="28" alt="Grafana" /><br/>
-<sub>Grafana</sub>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="28" height="28" alt="Prometheus" /><br/>
+<sub>Prometheus</sub>
 </td>
 </tr>
 </table>
