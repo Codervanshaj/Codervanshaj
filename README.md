@@ -36,42 +36,10 @@
 
 ---
 
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infrastructure
-
-Designing and automating infrastructure with **AWS, Azure, Terraform, Bicep and ARM templates**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Delivery & Automation
-
-Building **CI/CD and GitOps workflows** with GitHub Actions, Jenkins, Docker, Kubernetes, Helm and Argo CD.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Reliability
-
-Working with **Prometheus, Grafana and CloudWatch** to make systems observable and easier to operate.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Engineering
-
-Combining infrastructure, scripting and application development with **Python, PowerShell, TypeScript and Node.js**.
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-dark.svg">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build.svg" alt="What I Build: Cloud and Infrastructure, Delivery and Automation, Reliability, and Engineering" width="100%" />
+</picture>
 
 ---
 
