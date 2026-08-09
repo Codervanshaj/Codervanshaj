@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">Vanshaj Agarwal · DevOps and Cloud Engineer</title>
-<desc id="desc">A dark glass-style engineering pipeline with sequentially drawn connectors between infrastructure, delivery, runtime, and observability.</desc>
+<desc id="desc">A dark glass-style engineering pipeline connecting infrastructure, delivery, runtime, and observability.</desc>
 <defs>
 <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="0.55" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
@@ -13,9 +13,9 @@
 .body{font:450 15px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
 .node{font:750 12px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0;letter-spacing:.3px}
 .nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
-.connector{fill:none;stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50;stroke-dashoffset:50;animation:draw .85s cubic-bezier(.4,0,.2,1) forwards}
-.c1{animation-delay:.9s}.c2{animation-delay:2.25s}.c3{animation-delay:3.6s}
-@keyframes draw{0%{stroke-dashoffset:50;opacity:.15}100%{stroke-dashoffset:0;opacity:1}}
+.connector{fill:none;stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50 50;stroke-dashoffset:50;animation:draw 0.9s ease-out forwards}
+.c1{animation-delay:0.8s}.c2{animation-delay:2.1s}.c3{animation-delay:3.4s}
+@keyframes draw{from{stroke-dashoffset:50;opacity:0}to{stroke-dashoffset:0;opacity:1}}
 </style>
 </defs>
 <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#273449" stroke-width="2"/>
