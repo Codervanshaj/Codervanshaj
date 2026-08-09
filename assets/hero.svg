@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">Vanshaj Agarwal · DevOps and Cloud Engineer</title>
-<desc id="desc">A clean glass-style engineering pipeline connecting infrastructure, delivery, runtime, and observability.</desc>
+<desc id="desc">A clean glass-style engineering pipeline with sequentially drawn connectors between infrastructure, delivery, runtime, and observability.</desc>
 <defs>
 <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCFDFE"/><stop offset="1" stop-color="#F4F7FA"/></linearGradient>
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset="0.55" stop-color="#0891B2"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
@@ -13,14 +13,9 @@
 .body{font:450 15px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#64748B}
 .node{font:750 12px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#1E293B;letter-spacing:.3px}
 .nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#64748B}
-.track{stroke:#CBD5E1;stroke-width:2;stroke-linecap:round}
-.draw{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50;stroke-dashoffset:50;animation:draw .72s cubic-bezier(.4,0,.2,1) forwards}
-.draw1{animation-delay:.45s}.draw2{animation-delay:1.65s}.draw3{animation-delay:2.85s}
-.flow{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:5 9;stroke-dashoffset:0;opacity:0;animation:appear .12s linear forwards,flow 1.7s linear infinite}
-.flow1{animation-delay:1.2s,1.32s}.flow2{animation-delay:2.4s,2.52s}.flow3{animation-delay:3.6s,3.72s}
-@keyframes draw{0%{stroke-dashoffset:50;opacity:.25}100%{stroke-dashoffset:0;opacity:1}}
-@keyframes appear{to{opacity:1}}
-@keyframes flow{to{stroke-dashoffset:-28}}
+.connector{fill:none;stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50;stroke-dashoffset:50;animation:draw .85s cubic-bezier(.4,0,.2,1) forwards}
+.c1{animation-delay:.9s}.c2{animation-delay:2.25s}.c3{animation-delay:3.6s}
+@keyframes draw{0%{stroke-dashoffset:50;opacity:.15}100%{stroke-dashoffset:0;opacity:1}}
 </style>
 </defs>
 <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#E2E8F0" stroke-width="2"/>
@@ -30,17 +25,11 @@
 <text x="64" y="207" class="role">DevOps &amp; Cloud Engineer</text>
 <text x="64" y="238" class="body">I build infrastructure, delivery pipelines, and automation that move systems reliably from code to production.</text>
 <g transform="translate(64 304)">
-<!-- Fixed tracks remain visible. Each active connector is drawn in sequence, then carries a subtle flowing dash. -->
-<path d="M156 36 H206" class="track"/>
-<path d="M354 36 H404" class="track"/>
-<path d="M552 36 H602" class="track"/>
-<path d="M156 36 H206" class="draw draw1"/>
-<path d="M354 36 H404" class="draw draw2"/>
-<path d="M552 36 H602" class="draw draw3"/>
-<path d="M156 36 H206" class="flow flow1"/>
-<path d="M354 36 H404" class="flow flow2"/>
-<path d="M552 36 H602" class="flow flow3"/>
-<!-- Cards are intentionally static: no transform or opacity animation. -->
+<!-- No connector is visible in the initial state. Each connector draws in sequence and remains visible. -->
+<path d="M156 36 H206" class="connector c1"/>
+<path d="M354 36 H404" class="connector c2"/>
+<path d="M552 36 H602" class="connector c3"/>
+<!-- Cards are completely static: no transforms or opacity animations. -->
 <g filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#2563EB"/><text x="42" y="28" class="node">INFRASTRUCTURE</text><text x="42" y="48" class="nodeSmall">Terraform · Cloud</text></g>
 <g transform="translate(198 0)" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#0891B2"/><text x="42" y="28" class="node">DELIVERY</text><text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text></g>
 <g transform="translate(396 0)" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#7C3AED"/><text x="42" y="28" class="node">RUNTIME</text><text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text></g>
