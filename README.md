@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero.svg" alt="Vanshaj Agarwal - DevOps, Cloud and Automation" width="100%" />
+<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero.svg" alt="Vanshaj Agarwal · DevOps · Cloud · Automation" width="100%" />
 
 <br/>
 
-<strong>Cloud infrastructure · CI/CD · Kubernetes · Automation</strong>
-
-<br/>
-
-<sub>Building systems from infrastructure to delivery, with reliability and observability in mind.</sub>
+<sub><strong>Cloud infrastructure · Infrastructure as Code · CI/CD · Kubernetes · Observability</strong></sub>
 
 </div>
 
