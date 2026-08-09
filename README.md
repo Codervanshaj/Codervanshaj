@@ -10,7 +10,7 @@
 <table align="center">
 <tr>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="28" height="28" alt="Microsoft Azure" /><br/>
+<img src="https://cdn.simpleicons.org/azure/0078D4" width="28" height="28" alt="Microsoft Azure" /><br/>
 <sub>Azure</sub>
 </td>
 <td align="center" width="110">
