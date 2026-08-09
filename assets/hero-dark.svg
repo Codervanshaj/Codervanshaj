@@ -9,12 +9,14 @@
 <marker id="chevron" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M1 1 L6 3.5 L1 6" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
 <style>
 .kicker{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2.6px;fill:#94A3B8}
-.name{font:800 66px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3.5px;fill:#F8FAFC}
-.role{font:650 22px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0}
+.name{font:800 66px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3.5px;fill:#F8FAFC;animation:nameIn .75s ease-out both}
+.role{font:650 22px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0;animation:roleIn .65s ease-out .42s both}
 .body{font:450 15px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
 .node{font:750 11.5px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0;letter-spacing:.25px}
 .nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
 .flow{fill:none;stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:8 10;animation:flow 1.6s linear infinite}
+@keyframes nameIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@keyframes roleIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 @keyframes flow{to{stroke-dashoffset:-36}}
 </style>
 </defs>
@@ -25,29 +27,9 @@
 <text x="64" y="207" class="role">DevOps &amp; Cloud Engineer</text>
 <text x="64" y="238" class="body">I build infrastructure, delivery pipelines, and automation that move systems reliably from code to production.</text>
 <g transform="translate(105 304)">
-<!-- Designed pipeline rails: each gap is a deliberate connector module, not a plain arrow. -->
-<g>
-  <rect x="145" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/>
-  <line x1="151" y1="36" x2="219" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="151" y1="36" x2="219" y2="36" class="flow" marker-end="url(#chevron)"/>
-  <circle cx="145" cy="36" r="3" fill="#60A5FA"/>
-  <circle cx="225" cy="36" r="3" fill="#22D3EE"/>
-</g>
-<g>
-  <rect x="370" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/>
-  <line x1="376" y1="36" x2="444" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="376" y1="36" x2="444" y2="36" class="flow" style="animation-delay:.35s" marker-end="url(#chevron)"/>
-  <circle cx="370" cy="36" r="3" fill="#22D3EE"/>
-  <circle cx="450" cy="36" r="3" fill="#A78BFA"/>
-</g>
-<g>
-  <rect x="595" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/>
-  <line x1="601" y1="36" x2="669" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="601" y1="36" x2="669" y2="36" class="flow" style="animation-delay:.7s" marker-end="url(#chevron)"/>
-  <circle cx="595" cy="36" r="3" fill="#A78BFA"/>
-  <circle cx="675" cy="36" r="3" fill="#4ADE80"/>
-</g>
-<!-- Fixed glass cards. -->
+<g><rect x="145" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/><line x1="151" y1="36" x2="219" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><line x1="151" y1="36" x2="219" y2="36" class="flow" marker-end="url(#chevron)"/><circle cx="145" cy="36" r="3" fill="#60A5FA"/><circle cx="225" cy="36" r="3" fill="#22D3EE"/></g>
+<g><rect x="370" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/><line x1="376" y1="36" x2="444" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><line x1="376" y1="36" x2="444" y2="36" class="flow" style="animation-delay:.35s" marker-end="url(#chevron)"/><circle cx="370" cy="36" r="3" fill="#22D3EE"/><circle cx="450" cy="36" r="3" fill="#A78BFA"/></g>
+<g><rect x="595" y="30" width="80" height="12" rx="6" fill="#0F172A" stroke="#334155"/><line x1="601" y1="36" x2="669" y2="36" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><line x1="601" y1="36" x2="669" y2="36" class="flow" style="animation-delay:.7s" marker-end="url(#chevron)"/><circle cx="595" cy="36" r="3" fill="#A78BFA"/><circle cx="675" cy="36" r="3" fill="#4ADE80"/></g>
 <g filter="url(#shadow)"><rect width="145" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H127" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="24" cy="24" r="6" fill="#60A5FA"/><text x="39" y="28" class="node">INFRASTRUCTURE</text><text x="39" y="48" class="nodeSmall">Terraform · Cloud</text></g>
 <g transform="translate(225 0)" filter="url(#shadow)"><rect width="145" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H127" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="24" cy="24" r="6" fill="#22D3EE"/><text x="39" y="28" class="node">DELIVERY</text><text x="39" y="48" class="nodeSmall">CI/CD · GitOps</text></g>
 <g transform="translate(450 0)" filter="url(#shadow)"><rect width="145" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H127" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="24" cy="24" r="6" fill="#A78BFA"/><text x="39" y="28" class="node">RUNTIME</text><text x="39" y="48" class="nodeSmall">Docker · Kubernetes</text></g>
