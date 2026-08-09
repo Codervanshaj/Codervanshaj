@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero.svg" alt="Vanshaj Agarwal · DevOps and Cloud Engineer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero-dark.svg?v=20260809-1">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero.svg?v=20260809-1" alt="Vanshaj Agarwal · DevOps and Cloud Engineer" width="100%" />
 </picture>
 
 <br/>
@@ -37,8 +37,8 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-dark.svg">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build.svg" alt="What I Build: Cloud and Infrastructure, Delivery and Automation, Reliability, and Engineering" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-dark.svg?v=20260809-1">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build.svg?v=20260809-1" alt="What I Build: Cloud and Infrastructure, Delivery and Automation, Reliability, and Engineering" width="100%" />
 </picture>
 
 ---
