@@ -4,7 +4,15 @@
 
 <br/>
 
-<sub><strong>Cloud infrastructure · Infrastructure as Code · CI/CD · Kubernetes · Observability</strong></sub>
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonwebservices.svg" width="28" alt="AWS"/><br/><sub>AWS</sub></td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/terraform.svg" width="28" alt="Terraform"/><br/><sub>Terraform</sub></td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/kubernetes.svg" width="28" alt="Kubernetes"/><br/><sub>Kubernetes</sub></td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/githubactions.svg" width="28" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/grafana.svg" width="28" alt="Grafana"/><br/><sub>Grafana</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -16,32 +24,32 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
-Designing and automating infrastructure with **AWS, Azure, Terraform, Bicep and ARM templates**.
+AWS · Azure · Terraform · Bicep · ARM
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Delivery & Automation
+### Delivery & Automation
 
-Building **CI/CD and GitOps workflows** with GitHub Actions, Jenkins, Docker, Kubernetes, Helm and Argo CD.
+GitHub Actions · Jenkins · Docker · Kubernetes · Helm · Argo CD
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Reliability
+### Reliability
 
-Working with **Prometheus, Grafana and CloudWatch** to make systems observable and easier to operate.
+Prometheus · Grafana · CloudWatch
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Engineering
+### Engineering
 
-Combining infrastructure, scripting and application development with **Python, PowerShell, TypeScript and Node.js**.
+Python · PowerShell · TypeScript · Node.js
 
 </td>
 </tr>
@@ -94,18 +102,6 @@ A full-stack system combining **Next.js, FastAPI, PostgreSQL, Redis and AI workf
 
 ---
 
-## 🔄 How I Think About Engineering
-
-<div align="center">
-
-`PLAN`  →  `BUILD`  →  `TEST`  →  `DEPLOY`  →  `OBSERVE`  →  `IMPROVE`
-
-</div>
-
-I care about the path from **code to a running system**, not just the individual tools in between.
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -130,26 +126,6 @@ I care about the path from **code to a running system**, not just the individual
 </div>
 
 ---
-
-## 🌐 Explore
-
-<div align="center">
-
-<a href="https://github.com/Codervanshaj?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
-</a>
-
-<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline">
-  <img src="https://img.shields.io/badge/Featured%20Project-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Featured project" />
-</a>
-
-<a href="https://github.com/Codervanshaj/AI-Supply-Chain">
-  <img src="https://img.shields.io/badge/AI%20Supply%20Chain-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI Supply Chain" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
