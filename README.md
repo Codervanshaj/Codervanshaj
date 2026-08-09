@@ -36,10 +36,14 @@
 
 ---
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-dark.svg?v=20260809-1">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build.svg?v=20260809-1" alt="What I Build: Cloud and Infrastructure, Delivery and Automation, Reliability, and Engineering" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2-dark.svg">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build: Cloud Infrastructure, Delivery Automation, Reliability and Observability, and Engineering" width="100%" />
 </picture>
+
+</div>
 
 ---
 
