@@ -1,97 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Vanshaj Agarwal — DevOps, Cloud and Automation</title>
-  <desc id="desc">A clean animated engineering hero showing cloud infrastructure moving through automated delivery into Kubernetes and observability.</desc>
+  <desc id="desc">A minimal animated hero with a moving signal traveling through a clean delivery path.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#111B2E"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60A5FA"/>
-      <stop offset="0.55" stop-color="#67D8C4"/>
-      <stop offset="1" stop-color="#F59E0B"/>
-    </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <style>
-      .eyebrow{font:600 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2px;fill:#71819A}
-      .name{font:800 54px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-2.6px;fill:#F8FAFC}
-      .role{font:500 20px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#C4CFDF}
-      .nodeTitle{font:700 14px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#F8FAFC}
-      .nodeSub{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#8391A7}
-      .flow{stroke-dasharray:8 13;animation:flow 4.2s linear infinite}
-      .pulse{animation:pulse 2.4s ease-in-out infinite}
-      @keyframes flow{to{stroke-dashoffset:-84}}
+      .eyebrow{font:600 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:3px;fill:#64748B}
+      .name{font:800 62px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3px;fill:#F8FAFC}
+      .role{font:500 21px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#CBD5E1}
+      .caption{font:400 14px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
+      .label{font:600 10px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.8px;fill:#94A3B8}
+      .flow{stroke-dasharray:10 16;animation:flow 4s linear infinite}
+      .pulse{animation:pulse 2.3s ease-in-out infinite}
+      @keyframes flow{to{stroke-dashoffset:-104}}
       @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
     </style>
   </defs>
-
-  <rect x="2" y="2" width="1196" height="336" rx="26" fill="url(#bg)" stroke="#26344D" stroke-width="2"/>
-
-  <!-- Minimal identity -->
-  <text x="62" y="58" class="eyebrow">DEVOPS / CLOUD / AUTOMATION</text>
-  <text x="62" y="126" class="name">Vanshaj Agarwal</text>
-  <text x="64" y="161" class="role">Building reliable systems from infrastructure to delivery.</text>
-
-  <!-- Restrained technology cues -->
-  <g transform="translate(64 195)">
-    <rect width="88" height="30" rx="15" fill="#14223A" stroke="#30435F"/>
-    <text x="44" y="20" text-anchor="middle" class="eyebrow">CLOUD</text>
-    <rect x="98" width="104" height="30" rx="15" fill="#14223A" stroke="#30435F"/>
-    <text x="150" y="20" text-anchor="middle" class="eyebrow">KUBERNETES</text>
-    <rect x="214" width="96" height="30" rx="15" fill="#14223A" stroke="#30435F"/>
-    <text x="262" y="20" text-anchor="middle" class="eyebrow">TERRAFORM</text>
+  <rect x="2" y="2" width="1196" height="356" rx="28" fill="url(#bg)" stroke="#1E293B" stroke-width="2"/>
+  <text x="70" y="60" class="eyebrow">DEVOPS / CLOUD / AUTOMATION</text>
+  <text x="70" y="142" class="name">Vanshaj Agarwal</text>
+  <text x="72" y="180" class="role">Building reliable systems from infrastructure to delivery.</text>
+  <text x="72" y="208" class="caption">Cloud infrastructure · CI/CD · Kubernetes · automation</text>
+  <g transform="translate(70 268)">
+    <path d="M0 0H1060" stroke="#263244" stroke-width="2"/>
+    <path d="M0 0H1060" stroke="url(#line)" stroke-width="3" class="flow" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="7" fill="#38BDF8" class="pulse" filter="url(#glow)"/>
+    <circle cx="265" cy="0" r="5" fill="#60A5FA" class="pulse"/><circle cx="530" cy="0" r="5" fill="#818CF8" class="pulse"/><circle cx="795" cy="0" r="5" fill="#A78BFA" class="pulse"/><circle cx="1060" cy="0" r="7" fill="#F59E0B" class="pulse" filter="url(#glow)"/>
+    <text x="0" y="34" class="label">CLOUD</text><text x="265" y="34" text-anchor="middle" class="label">INFRASTRUCTURE</text><text x="530" y="34" text-anchor="middle" class="label">DELIVERY</text><text x="795" y="34" text-anchor="middle" class="label">RUNTIME</text><text x="1060" y="34" text-anchor="end" class="label">OBSERVABILITY</text>
+    <circle r="6" fill="#F8FAFC" filter="url(#glow)"><animateMotion dur="4.2s" repeatCount="indefinite" path="M0 0 H1060"/></circle>
   </g>
-
-  <!-- Clean delivery rail -->
-  <g transform="translate(470 94)">
-    <text x="0" y="0" class="eyebrow">FROM CODE TO RUNTIME</text>
-    <path d="M0 78H638" stroke="#26364F" stroke-width="2"/>
-    <path d="M0 78H638" stroke="url(#signal)" stroke-width="3" class="flow" filter="url(#glow)"/>
-
-    <!-- AWS -->
-    <g transform="translate(0 34)">
-      <rect width="136" height="112" rx="20" fill="#0D1728" stroke="#2A3A55"/>
-      <image x="46" y="18" width="44" height="44" href="https://cdn.simpleicons.org/amazonwebservices/FF9900"/>
-      <text x="68" y="83" text-anchor="middle" class="nodeTitle">Cloud</text>
-      <text x="68" y="101" text-anchor="middle" class="nodeSub">AWS · Azure</text>
-      <circle cx="116" cy="18" r="4" fill="#60A5FA" class="pulse"/>
-    </g>
-
-    <!-- Terraform -->
-    <g transform="translate(164 34)">
-      <rect width="136" height="112" rx="20" fill="#0D1728" stroke="#2A3A55"/>
-      <image x="46" y="18" width="44" height="44" href="https://cdn.simpleicons.org/terraform/844FBA"/>
-      <text x="68" y="83" text-anchor="middle" class="nodeTitle">Infrastructure</text>
-      <text x="68" y="101" text-anchor="middle" class="nodeSub">Terraform · Bicep</text>
-      <circle cx="116" cy="18" r="4" fill="#A78BFA" class="pulse"/>
-    </g>
-
-    <!-- GitHub Actions -->
-    <g transform="translate(328 34)">
-      <rect width="136" height="112" rx="20" fill="#0D1728" stroke="#2A3A55"/>
-      <image x="46" y="18" width="44" height="44" href="https://cdn.simpleicons.org/githubactions/2088FF"/>
-      <text x="68" y="83" text-anchor="middle" class="nodeTitle">Delivery</text>
-      <text x="68" y="101" text-anchor="middle" class="nodeSub">CI/CD · GitOps</text>
-      <circle cx="116" cy="18" r="4" fill="#60A5FA" class="pulse"/>
-    </g>
-
-    <!-- Kubernetes -->
-    <g transform="translate(492 34)">
-      <rect width="136" height="112" rx="20" fill="#0D1728" stroke="#2A3A55"/>
-      <image x="46" y="18" width="44" height="44" href="https://cdn.simpleicons.org/kubernetes/326CE5"/>
-      <text x="68" y="83" text-anchor="middle" class="nodeTitle">Runtime</text>
-      <text x="68" y="101" text-anchor="middle" class="nodeSub">Kubernetes · Helm</text>
-      <circle cx="116" cy="18" r="4" fill="#67D8C4" class="pulse"/>
-    </g>
-
-    <!-- One moving packet -->
-    <circle r="5.5" fill="#F8FAFC" filter="url(#glow)">
-      <animateMotion dur="4.4s" repeatCount="indefinite" path="M0 78 H638"/>
-    </circle>
-  </g>
-
-  <text x="1138" y="313" text-anchor="end" class="eyebrow">PLAN → BUILD → DEPLOY → OBSERVE</text>
 </svg>
