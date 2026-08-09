@@ -15,10 +15,15 @@
       .nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
       .pipe{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:5 9;animation:run 1.5s linear infinite}
       .pipe2{animation-delay:.5s}.pipe3{animation-delay:1s}
-      .stage{transform-box:fill-box;transform-origin:center;animation:stage 6s ease-in-out infinite}
-      .stage2{animation-delay:1.5s}.stage3{animation-delay:3s}.stage4{animation-delay:4.5s}
+      .card1{animation:card1 6s ease-in-out infinite}
+      .card2{animation:card2 6s ease-in-out infinite;animation-delay:1.5s}
+      .card3{animation:card3 6s ease-in-out infinite;animation-delay:3s}
+      .card4{animation:card4 6s ease-in-out infinite;animation-delay:4.5s}
       @keyframes run{to{stroke-dashoffset:-28}}
-      @keyframes stage{0%,18%,100%{transform:translateY(0)}8%{transform:translateY(-3px)}}
+      @keyframes card1{0%,18%,100%{transform:translate(0px,0px)}8%{transform:translate(0px,-3px)}}
+      @keyframes card2{0%,18%,100%{transform:translate(198px,0px)}8%{transform:translate(198px,-3px)}}
+      @keyframes card3{0%,18%,100%{transform:translate(396px,0px)}8%{transform:translate(396px,-3px)}}
+      @keyframes card4{0%,18%,100%{transform:translate(594px,0px)}8%{transform:translate(594px,-3px)}}
     </style>
   </defs>
   <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#273449" stroke-width="2"/>
@@ -30,10 +35,10 @@
   <g transform="translate(64 304)">
     <path d="M156 36 H206 M354 36 H404 M552 36 H602" stroke="#334155" stroke-width="2"/>
     <path d="M156 36 H206" class="pipe"/><path d="M354 36 H404" class="pipe pipe2"/><path d="M552 36 H602" class="pipe pipe3"/>
-    <g filter="url(#shadow)"><g class="stage"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#60A5FA"/><text x="42" y="28" class="node">INFRASTRUCTURE</text><text x="42" y="48" class="nodeSmall">Terraform · Cloud</text></g></g>
-    <g transform="translate(198 0)" filter="url(#shadow)"><g class="stage stage2"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#22D3EE"/><text x="42" y="28" class="node">DELIVERY</text><text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text></g></g>
-    <g transform="translate(396 0)" filter="url(#shadow)"><g class="stage stage3"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#A78BFA"/><text x="42" y="28" class="node">RUNTIME</text><text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text></g></g>
-    <g transform="translate(594 0)" filter="url(#shadow)"><g class="stage stage4"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#4ADE80"/><text x="42" y="28" class="node">OBSERVE</text><text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text></g></g>
+    <g class="card1" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#60A5FA"/><text x="42" y="28" class="node">INFRASTRUCTURE</text><text x="42" y="48" class="nodeSmall">Terraform · Cloud</text></g>
+    <g class="card2" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#22D3EE"/><text x="42" y="28" class="node">DELIVERY</text><text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text></g>
+    <g class="card3" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#A78BFA"/><text x="42" y="28" class="node">RUNTIME</text><text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text></g>
+    <g class="card4" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#4ADE80"/><text x="42" y="28" class="node">OBSERVE</text><text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text></g>
   </g>
   <text x="64" y="408" class="kicker">BUILD · DEPLOY · OBSERVE · IMPROVE</text>
   <text x="1136" y="408" text-anchor="end" class="kicker">01 / 01</text>
