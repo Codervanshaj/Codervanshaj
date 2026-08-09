@@ -1,73 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">Vanshaj Agarwal · DevOps and Cloud Engineer</title>
-  <desc id="desc">A dark glass-style engineering pipeline revealing infrastructure, delivery, runtime, and observability in sequence.</desc>
-  <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="0.55" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1E293B" stop-opacity="0.72"/><stop offset="0.48" stop-color="#172033" stop-opacity="0.54"/><stop offset="1" stop-color="#111827" stop-opacity="0.68"/></linearGradient>
-    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/></filter>
-    <style>
-      .kicker{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2.6px;fill:#94A3B8}
-      .name{font:800 66px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3.5px;fill:#F8FAFC}
-      .role{font:650 22px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0}
-      .body{font:450 15px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
-      .node{font:750 12px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0;letter-spacing:.3px}
-      .nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
-      .reveal{opacity:0;animation-fill-mode:forwards;animation-iteration-count:1}
-      .card1{animation:revealCard .65s ease-out .25s forwards}
-      .card2{animation:revealCard .65s ease-out 1.75s forwards}
-      .card3{animation:revealCard .65s ease-out 3.25s forwards}
-      .card4{animation:revealCard .65s ease-out 4.75s forwards}
-      .line{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50;stroke-dashoffset:50;animation:drawLine .7s ease-out forwards}
-      .line1{animation-delay:1.05s}.line2{animation-delay:2.55s}.line3{animation-delay:4.05s}
-      @keyframes revealCard{0%{opacity:0}70%{opacity:.92}100%{opacity:1}}
-      @keyframes drawLine{0%{stroke-dashoffset:50;opacity:.25}35%{opacity:.65}100%{stroke-dashoffset:0;opacity:1}}
-    </style>
-  </defs>
-  <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#273449" stroke-width="2"/>
-  <rect x="62" y="58" width="38" height="4" rx="2" fill="url(#accent)"/>
-  <text x="62" y="88" class="kicker">DEVOPS · CLOUD · AUTOMATION</text>
-  <text x="62" y="166" class="name">Vanshaj Agarwal</text>
-  <text x="64" y="207" class="role">DevOps &amp; Cloud Engineer</text>
-  <text x="64" y="238" class="body">I build infrastructure, delivery pipelines, and automation that move systems reliably from code to production.</text>
-
-  <g transform="translate(64 304)">
-    <path d="M156 36 H206" stroke="#334155" stroke-width="2"/>
-    <path d="M354 36 H404" stroke="#334155" stroke-width="2"/>
-    <path d="M552 36 H602" stroke="#334155" stroke-width="2"/>
-    <path d="M156 36 H206" class="line line1"/>
-    <path d="M354 36 H404" class="line line2"/>
-    <path d="M552 36 H602" class="line line3"/>
-
-    <g class="reveal card1" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#60A5FA"/>
-      <text x="42" y="28" class="node">INFRASTRUCTURE</text>
-      <text x="42" y="48" class="nodeSmall">Terraform · Cloud</text>
-    </g>
-    <g class="reveal card2" transform="translate(198 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#22D3EE"/>
-      <text x="42" y="28" class="node">DELIVERY</text>
-      <text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text>
-    </g>
-    <g class="reveal card3" transform="translate(396 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#A78BFA"/>
-      <text x="42" y="28" class="node">RUNTIME</text>
-      <text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text>
-    </g>
-    <g class="reveal card4" transform="translate(594 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#4ADE80"/>
-      <text x="42" y="28" class="node">OBSERVE</text>
-      <text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text>
-    </g>
-  </g>
-  <text x="64" y="408" class="kicker">BUILD · DEPLOY · OBSERVE · IMPROVE</text>
-  <text x="1136" y="408" text-anchor="end" class="kicker">01 / 01</text>
+<title id="title">Vanshaj Agarwal · DevOps and Cloud Engineer</title>
+<desc id="desc">A dark glass-style engineering pipeline connecting infrastructure, delivery, runtime, and observability.</desc>
+<defs>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="0.55" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1E293B" stop-opacity="0.72"/><stop offset="0.48" stop-color="#172033" stop-opacity="0.54"/><stop offset="1" stop-color="#111827" stop-opacity="0.68"/></linearGradient>
+<filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/></filter>
+<style>
+.kicker{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2.6px;fill:#94A3B8}
+.name{font:800 66px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3.5px;fill:#F8FAFC}
+.role{font:650 22px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0}
+.body{font:450 15px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
+.node{font:750 12px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E2E8F0;letter-spacing:.3px}
+.nodeSmall{font:500 10px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#94A3B8}
+.track{stroke:#334155;stroke-width:2;stroke-linecap:round}
+.draw{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:50;stroke-dashoffset:50;animation:draw .72s cubic-bezier(.4,0,.2,1) forwards}
+.draw1{animation-delay:.45s}.draw2{animation-delay:1.65s}.draw3{animation-delay:2.85s}
+.flow{stroke:url(#accent);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:5 9;stroke-dashoffset:0;opacity:0;animation:appear .12s linear forwards,flow 1.7s linear infinite}
+.flow1{animation-delay:1.2s,1.32s}.flow2{animation-delay:2.4s,2.52s}.flow3{animation-delay:3.6s,3.72s}
+@keyframes draw{0%{stroke-dashoffset:50;opacity:.25}100%{stroke-dashoffset:0;opacity:1}}
+@keyframes appear{to{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-28}}
+</style>
+</defs>
+<rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#273449" stroke-width="2"/>
+<rect x="62" y="58" width="38" height="4" rx="2" fill="url(#accent)"/>
+<text x="62" y="88" class="kicker">DEVOPS · CLOUD · AUTOMATION</text>
+<text x="62" y="166" class="name">Vanshaj Agarwal</text>
+<text x="64" y="207" class="role">DevOps &amp; Cloud Engineer</text>
+<text x="64" y="238" class="body">I build infrastructure, delivery pipelines, and automation that move systems reliably from code to production.</text>
+<g transform="translate(64 304)">
+<path d="M156 36 H206" class="track"/>
+<path d="M354 36 H404" class="track"/>
+<path d="M552 36 H602" class="track"/>
+<path d="M156 36 H206" class="draw draw1"/>
+<path d="M354 36 H404" class="draw draw2"/>
+<path d="M552 36 H602" class="draw draw3"/>
+<path d="M156 36 H206" class="flow flow1"/>
+<path d="M354 36 H404" class="flow flow2"/>
+<path d="M552 36 H602" class="flow flow3"/>
+<g filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#60A5FA"/><text x="42" y="28" class="node">INFRASTRUCTURE</text><text x="42" y="48" class="nodeSmall">Terraform · Cloud</text></g>
+<g transform="translate(198 0)" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#22D3EE"/><text x="42" y="28" class="node">DELIVERY</text><text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text></g>
+<g transform="translate(396 0)" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#A78BFA"/><text x="42" y="28" class="node">RUNTIME</text><text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text></g>
+<g transform="translate(594 0)" filter="url(#shadow)"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#475569" stroke-opacity="0.78"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#4ADE80"/><text x="42" y="28" class="node">OBSERVE</text><text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text></g>
+</g>
+<text x="64" y="408" class="kicker">BUILD · DEPLOY · OBSERVE · IMPROVE</text>
+<text x="1136" y="408" text-anchor="end" class="kicker">01 / 01</text>
 </svg>
