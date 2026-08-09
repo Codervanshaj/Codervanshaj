@@ -1,21 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/Codervanshaj">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=111827&center=true&vCenter=true&width=760&lines=Vanshaj+Agarwal;DevOps+%7C+Cloud+%7C+Automation;Infrastructure+%E2%86%92+Delivery+%E2%86%92+Observability" alt="Typing introduction" />
-</a>
+<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/hero.svg" alt="Vanshaj Agarwal - DevOps, Cloud and Automation" width="100%" />
 
-<p>
-  <strong>Building cloud infrastructure, delivery pipelines, and automation systems.</strong><br/>
-  Focused on reliable deployments, infrastructure as code, containers, and practical cloud engineering.
-</p>
+<br/>
 
-<p>
-  <a href="https://github.com/Codervanshaj?tab=repositories">Repositories</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Codervanshaj?tab=stars">Starred work</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Codervanshaj">GitHub</a>
-</p>
+<strong>Cloud infrastructure · CI/CD · Kubernetes · Automation</strong>
+
+<br/>
+
+<sub>Building systems from infrastructure to delivery, with reliability and observability in mind.</sub>
 
 </div>
 
