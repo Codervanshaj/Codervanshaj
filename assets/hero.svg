@@ -2,27 +2,10 @@
   <title id="title">Vanshaj Agarwal · DevOps and Cloud Engineer</title>
   <desc id="desc">A calm glass-style engineering pipeline connecting infrastructure, delivery, runtime, and observability.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FCFDFE"/>
-      <stop offset="1" stop-color="#F4F7FA"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2563EB"/>
-      <stop offset="0.55" stop-color="#0891B2"/>
-      <stop offset="1" stop-color="#7C3AED"/>
-    </linearGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.70"/>
-      <stop offset="0.48" stop-color="#F8FAFC" stop-opacity="0.48"/>
-      <stop offset="1" stop-color="#EEF2F7" stop-opacity="0.62"/>
-    </linearGradient>
-    <linearGradient id="glassActive" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.86"/>
-      <stop offset="1" stop-color="#F1F5F9" stop-opacity="0.68"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.07"/>
-    </filter>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCFDFE"/><stop offset="1" stop-color="#F4F7FA"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset="0.55" stop-color="#0891B2"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.70"/><stop offset="0.48" stop-color="#F8FAFC" stop-opacity="0.48"/><stop offset="1" stop-color="#EEF2F7" stop-opacity="0.62"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.07"/></filter>
     <style>
       .kicker{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2.6px;fill:#64748B}
       .name{font:800 66px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-3.5px;fill:#111827}
@@ -38,59 +21,21 @@
       @keyframes stage{0%,18%,100%{transform:translateY(0)}8%{transform:translateY(-3px)}}
     </style>
   </defs>
-
   <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#surface)" stroke="#E2E8F0" stroke-width="2"/>
   <rect x="62" y="58" width="38" height="4" rx="2" fill="url(#accent)"/>
   <text x="62" y="88" class="kicker">DEVOPS · CLOUD · AUTOMATION</text>
-
   <text x="62" y="166" class="name">Vanshaj Agarwal</text>
   <text x="64" y="207" class="role">DevOps &amp; Cloud Engineer</text>
   <text x="64" y="238" class="body">I build infrastructure, delivery pipelines, and automation that move systems reliably from code to production.</text>
-
   <g transform="translate(64 304)">
-    <!-- pipeline lives in the spaces, never over the cards -->
     <path d="M156 36 H206 M354 36 H404 M552 36 H602" stroke="#CBD5E1" stroke-width="2"/>
-    <path d="M156 36 H206" class="pipe"/>
-    <path d="M354 36 H404" class="pipe pipe2"/>
-    <path d="M552 36 H602" class="pipe pipe3"/>
+    <path d="M156 36 H206" class="pipe"/><path d="M354 36 H404" class="pipe pipe2"/><path d="M552 36 H602" class="pipe pipe3"/>
 
-    <!-- glass stage 1 -->
-    <g class="stage" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#2563EB"/>
-      <text x="42" y="28" class="node">INFRASTRUCTURE</text>
-      <text x="42" y="48" class="nodeSmall">Terraform · Cloud</text>
-    </g>
-
-    <!-- glass stage 2 -->
-    <g class="stage stage2" transform="translate(198 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#0891B2"/>
-      <text x="42" y="28" class="node">DELIVERY</text>
-      <text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text>
-    </g>
-
-    <!-- glass stage 3 -->
-    <g class="stage stage3" transform="translate(396 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#7C3AED"/>
-      <text x="42" y="28" class="node">RUNTIME</text>
-      <text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text>
-    </g>
-
-    <!-- glass stage 4 -->
-    <g class="stage stage4" transform="translate(594 0)" filter="url(#shadow)">
-      <rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/>
-      <path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="25" cy="24" r="6" fill="#16A34A"/>
-      <text x="42" y="28" class="node">OBSERVE</text>
-      <text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text>
-    </g>
+    <g filter="url(#shadow)"><g class="stage"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#2563EB"/><text x="42" y="28" class="node">INFRASTRUCTURE</text><text x="42" y="48" class="nodeSmall">Terraform · Cloud</text></g></g>
+    <g transform="translate(198 0)" filter="url(#shadow)"><g class="stage stage2"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#0891B2"/><text x="42" y="28" class="node">DELIVERY</text><text x="42" y="48" class="nodeSmall">CI/CD · GitOps</text></g></g>
+    <g transform="translate(396 0)" filter="url(#shadow)"><g class="stage stage3"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#7C3AED"/><text x="42" y="28" class="node">RUNTIME</text><text x="42" y="48" class="nodeSmall">Docker · Kubernetes</text></g></g>
+    <g transform="translate(594 0)" filter="url(#shadow)"><g class="stage stage4"><rect width="156" height="72" rx="18" fill="url(#glass)" stroke="#CBD5E1" stroke-opacity="0.72"/><path d="M18 1 H138" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="1.5" stroke-linecap="round"/><circle cx="25" cy="24" r="6" fill="#16A34A"/><text x="42" y="28" class="node">OBSERVE</text><text x="42" y="48" class="nodeSmall">Prometheus · Metrics</text></g></g>
   </g>
-
   <text x="64" y="408" class="kicker">BUILD · DEPLOY · OBSERVE · IMPROVE</text>
   <text x="1136" y="408" text-anchor="end" class="kicker">01 / 01</text>
 </svg>
