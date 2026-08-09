@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Vanshaj Agarwal, DevOps Cloud Automation</title>
+  <desc id="desc">A dark engineering blueprint showing a continuous delivery signal moving through cloud, infrastructure, deployment and observability nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111A2F"/>
+      <stop offset="1" stop-color="#0A1222"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B7CFF"/>
+      <stop offset="0.5" stop-color="#62E6C5"/>
+      <stop offset="1" stop-color="#FF8066"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5B7CFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#5B7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#A7B6D9" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <style>
+      .eyebrow{font:600 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:3px;fill:#8F9DBA}
+      .name{font:700 48px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-1.5px;fill:#F5F7FB}
+      .role{font:500 19px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#C2CCDE}
+      .label{font:600 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.5px;fill:#8F9DBA}
+      .nodeText{font:600 13px ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E9EEF8}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      .dash{stroke-dasharray:7 10;animation:flow 5s linear infinite}
+      .orbit{transform-origin:920px 208px;animation:spin 18s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.92)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes flow{to{stroke-dashoffset:-85}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#bg)" stroke="#263653" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="426" rx="28" fill="url(#grid)"/>
+  <circle cx="920" cy="208" r="190" fill="url(#glow)"/>
+
+  <path d="M56 338H1144" stroke="#30405F" stroke-width="1"/>
+  <path d="M56 92H1144" stroke="#30405F" stroke-width="1" stroke-dasharray="2 8"/>
+
+  <text x="64" y="72" class="eyebrow">ENGINEERING PROFILE / 01</text>
+  <text x="64" y="138" class="name">Vanshaj Agarwal</text>
+  <text x="64" y="176" class="role">DevOps · Cloud · Automation</text>
+
+  <g transform="translate(64 216)">
+    <rect width="370" height="76" rx="16" fill="#151F34" stroke="#2B3A59"/>
+    <circle cx="27" cy="27" r="6" fill="#62E6C5" class="pulse"/>
+    <text x="45" y="31" class="label">CURRENT FOCUS</text>
+    <text x="24" y="56" class="nodeText">Infrastructure → Delivery → Observability</text>
+  </g>
+
+  <g transform="translate(64 312)">
+    <rect width="112" height="34" rx="17" fill="#172442" stroke="#31456F"/>
+    <text x="56" y="22" text-anchor="middle" class="label" fill="#AFC0FF">AWS</text>
+    <rect x="122" width="112" height="34" rx="17" fill="#172442" stroke="#31456F"/>
+    <text x="178" y="22" text-anchor="middle" class="label">KUBERNETES</text>
+    <rect x="244" width="112" height="34" rx="17" fill="#172442" stroke="#31456F"/>
+    <text x="300" y="22" text-anchor="middle" class="label">TERRAFORM</text>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M492 208H1092" stroke="#263653" stroke-width="2"/>
+    <path d="M492 208H1092" stroke="url(#signal)" stroke-width="3" class="dash" filter="url(#softGlow)"/>
+  </g>
+
+  <g transform="translate(500 166)">
+    <circle cx="42" cy="42" r="40" fill="#121C31" stroke="#3A4C72"/>
+    <path d="M26 46c0-12 8-21 19-21 8 0 14 4 18 11 9 0 16 6 16 14 0 9-7 15-17 15H34c-9 0-16-6-16-15 0-6 3-11 8-14z" fill="none" stroke="#8EA6FF" stroke-width="2"/>
+    <text x="42" y="105" text-anchor="middle" class="label">CLOUD</text>
+  </g>
+
+  <g transform="translate(670 166)">
+    <circle cx="42" cy="42" r="40" fill="#121C31" stroke="#3A4C72"/>
+    <path d="M24 30l18-10 18 10v23L42 63 24 53z" fill="none" stroke="#62E6C5" stroke-width="2"/>
+    <path d="M42 20v22m-18-12 18 12 18-12" fill="none" stroke="#62E6C5" stroke-width="2"/>
+    <text x="42" y="105" text-anchor="middle" class="label">INFRA</text>
+  </g>
+
+  <g transform="translate(840 166)">
+    <circle cx="42" cy="42" r="40" fill="#121C31" stroke="#3A4C72"/>
+    <path d="M25 43h34M42 26v34" stroke="#FF8066" stroke-width="2"/>
+    <path d="M51 34l8 9-8 9" fill="none" stroke="#FF8066" stroke-width="2"/>
+    <text x="42" y="105" text-anchor="middle" class="label">DELIVERY</text>
+  </g>
+
+  <g transform="translate(1010 166)">
+    <circle cx="42" cy="42" r="40" fill="#121C31" stroke="#3A4C72"/>
+    <path d="M24 51l11-10 9 7 16-18" fill="none" stroke="#AFC0FF" stroke-width="2.5"/>
+    <path d="M24 57h38" stroke="#3A4C72" stroke-width="2"/>
+    <text x="42" y="105" text-anchor="middle" class="label">OBSERVE</text>
+  </g>
+
+  <g class="orbit">
+    <circle cx="920" cy="208" r="122" fill="none" stroke="#6679A5" stroke-opacity="0.22" stroke-dasharray="2 14"/>
+    <circle cx="1042" cy="208" r="4" fill="#62E6C5" class="pulse" filter="url(#softGlow)"/>
+  </g>
+
+  <text x="1138" y="389" text-anchor="end" class="eyebrow">SYSTEMS / AUTOMATION / DELIVERY</text>
+</svg>
