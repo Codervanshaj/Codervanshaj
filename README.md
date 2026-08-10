@@ -59,9 +59,12 @@
 </div>
 
 
-## 💬 Developer Note
-
-<div align="center">> **Build it clearly. Automate it carefully. Observe it continuously.**</div>
+<div align="center">
+<sub><strong>DEVELOPER NOTE</strong></sub>
+<br/><br/>
+<h2><i>“Talk is cheap. Show me the code.”</i></h2>
+<p><code>LINUS TORVALDS</code> &nbsp;·&nbsp; Linux kernel creator</p>
+</div>
 
 ---
 
