@@ -57,4 +57,6 @@
 </div>
 
 <br/>
-<div align="center"><sub>Building systems that are easier to deploy, observe, and operate.</sub></div>
+<div align="center">
+<h3>Building systems that are easier to deploy, observe, and operate.</h3>
+</div>
