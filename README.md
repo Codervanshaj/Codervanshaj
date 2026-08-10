@@ -58,12 +58,12 @@
 <br/><br/>
 </div>
 
-
 <div align="center">
-<sub><strong>DEVELOPER NOTE</strong></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/developer-quote-dark.svg?v=20260810-1">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/developer-quote.svg?v=20260810-1" alt="Developer Quote: The function of good software is to make the complex appear to be simple. — Grady Booch" width="100%" />
+</picture>
 <br/><br/>
-<h2><i>“Talk is cheap. Show me the code.”</i></h2>
-<p><code>LINUS TORVALDS</code> &nbsp;·&nbsp; Linux kernel creator</p>
 </div>
 
 ---
