@@ -46,35 +46,31 @@
 
 ### Technology Stack
 
-<table align="center" border="0" cellpadding="14" cellspacing="0">
-<tr>
-<td width="120"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="64" height="64" alt="Microsoft Azure" /></td>
-<td width="80"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="62" height="62" alt="Terraform" /></td>
-<td width="120"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="68" height="68" alt="Docker" /></td>
-<td width="90"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="62" height="62" alt="GitHub Actions" /></td>
-<td width="100"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="72" height="72" alt="Kubernetes" /></td>
-<td width="100"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="64" height="64" alt="Prometheus" /></td>
-<td width="100"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/newrelic/1CE783" width="62" height="62" alt="New Relic" /></td>
-</tr>
-<tr>
-<td width="100"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/powershell/5391FE" width="64" height="64" alt="PowerShell" /></td>
-<td width="120"></td>
-<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" /></td>
-<td width="100"></td>
-<td width="100"></td>
-<td width="100"></td>
-</tr>
-</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/azure.svg" width="64" height="64" alt="Microsoft Azure" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/terraform/844FBA" width="62" height="62" alt="Terraform" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="68" height="68" alt="Docker" />
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="62" height="62" alt="GitHub Actions" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="72" height="72" alt="Kubernetes" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="64" height="64" alt="Prometheus" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/newrelic/1CE783" width="62" height="62" alt="New Relic" />
+</p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/powershell.svg" width="64" height="64" alt="PowerShell" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" />
+</p>
 
 </div>
 
