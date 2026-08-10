@@ -52,18 +52,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-6">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-6" alt="Currently Exploring: DevOps, cloud and what is next" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-7">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-7" alt="Currently Exploring: DevOps, cloud and what is next" width="100%" />
 </picture>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-<a href="https://github.com/Codervanshaj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://in.linkedin.com/in/vanshaj-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
