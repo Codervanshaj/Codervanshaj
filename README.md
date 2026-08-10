@@ -44,60 +44,37 @@
 
 <div align="center">
 
-<h2>Technology Stack</h2>
-<p><sub>The tools I work with</sub></p>
+### Technology Stack
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="72" height="72" alt="AWS" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="68" height="68" alt="Azure" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/terraform/844FBA" width="70" height="70" alt="Terraform" />
-
-<br/><br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="72" height="72" alt="Docker" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="76" height="76" alt="Kubernetes" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/helm/0F1689" width="66" height="66" alt="Helm" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="70" height="70" alt="GitHub Actions" />
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/ansible/EE0000" width="68" height="68" alt="Ansible" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jenkins/D24939" width="70" height="70" alt="Jenkins" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="70" height="70" alt="Prometheus" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="70" height="70" alt="Grafana" />
-
-<br/><br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/newrelic/008C99" width="68" height="68" alt="New Relic" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/elastic/005571" width="68" height="68" alt="Elastic" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="70" height="70" alt="Python" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="70" height="70" alt="TypeScript" />
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="70" height="70" alt="Node.js" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powershell/5391FE" width="70" height="70" alt="PowerShell" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="70" height="70" alt="Git" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="70" height="70" alt="PostgreSQL" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="70" height="70" alt="Cloudflare" />
+<table align="center" border="0" cellpadding="14" cellspacing="0">
+<tr>
+<td width="120"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="64" height="64" alt="Microsoft Azure" /></td>
+<td width="80"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="62" height="62" alt="Terraform" /></td>
+<td width="120"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="68" height="68" alt="Docker" /></td>
+<td width="90"></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="62" height="62" alt="GitHub Actions" /></td>
+<td width="100"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="72" height="72" alt="Kubernetes" /></td>
+<td width="100"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="64" height="64" alt="Prometheus" /></td>
+<td width="100"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/newrelic/1CE783" width="62" height="62" alt="New Relic" /></td>
+</tr>
+<tr>
+<td width="100"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/powershell/5391FE" width="64" height="64" alt="PowerShell" /></td>
+<td width="120"></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" /></td>
+<td width="100"></td>
+<td width="100"></td>
+<td width="100"></td>
+</tr>
+</table>
 
 </div>
 
