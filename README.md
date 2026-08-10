@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervansaj/main/assets/what-i-build-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build" width="100%" /></picture>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v3-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v3.svg" alt="Technology Stack" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v4-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v4.svg" alt="Technology Stack with AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Helm, GitHub Actions, Prometheus, Grafana, New Relic, Elastic, Python, TypeScript, Node.js, PowerShell, and Git" width="100%" /></picture>
 </div>
 
 ---
