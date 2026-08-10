@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-<title id="title">Currently Exploring</title><desc id="desc">A clean developer-oriented map of current DevOps and cloud exploration areas.</desc>
-<rect width="1200" height="430" rx="18" fill="#f6f8fa"/>
-<rect x="1" y="1" width="1198" height="428" rx="17" fill="none" stroke="#d0d7de"/>
-<text x="52" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#57606a">CURRENTLY EXPLORING</text>
-<text x="52" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="26" font-weight="650" fill="#24292f">Cloud-native systems, delivery &amp; automation</text>
-<line x1="52" y1="115" x2="1148" y2="115" stroke="#d8dee4"/>
-<path d="M600 147 V382" stroke="#d0d7de" stroke-dasharray="4 7"/>
-<path d="M52 263 H1148" stroke="#d0d7de" stroke-dasharray="4 7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Currently Exploring</title><desc id="desc">A developer roadmap showing current exploration across cloud, platform engineering, delivery and AI operations.</desc>
+<rect width="1200" height="390" fill="#ffffff"/>
+<text x="54" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="2" fill="#57606a">CURRENTLY EXPLORING</text>
+<text x="54" y="78" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="25" font-weight="650" fill="#24292f">From infrastructure to intelligent platforms</text>
+<text x="1146" y="77" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#0969da">2026 / DEVOPS + CLOUD</text>
+<path d="M54 101H1146" stroke="#d8dee4"/>
 
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
-<g transform="translate(52 140)"><rect width="510" height="102" rx="12" fill="#ffffff" stroke="#d0d7de"/><rect width="4" height="102" rx="2" fill="#0969da"/><text x="24" y="32" font-size="15" font-weight="650" fill="#24292f">01  Platform Engineering</text><text x="24" y="57" font-size="13" fill="#57606a">Self-service infrastructure &amp; developer platforms</text><text x="24" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#0969da">Kubernetes  ·  Internal Platforms</text></g>
-<g transform="translate(638 140)"><rect width="510" height="102" rx="12" fill="#ffffff" stroke="#d0d7de"/><rect width="4" height="102" rx="2" fill="#8250df"/><text x="24" y="32" font-size="15" font-weight="650" fill="#24292f">02  GitOps &amp; Delivery</text><text x="24" y="57" font-size="13" fill="#57606a">Declarative releases with automated delivery</text><text x="24" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8250df">Argo CD  ·  CI/CD  ·  Progressive Delivery</text></g>
-<g transform="translate(52 285)"><rect width="510" height="102" rx="12" fill="#ffffff" stroke="#d0d7de"/><rect width="4" height="102" rx="2" fill="#1a7f37"/><text x="24" y="32" font-size="15" font-weight="650" fill="#24292f">03  Cloud Infrastructure</text><text x="24" y="57" font-size="13" fill="#57606a">Reliable, repeatable infrastructure at scale</text><text x="24" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#1a7f37">AWS  ·  Azure  ·  Terraform</text></g>
-<g transform="translate(638 285)"><rect width="510" height="102" rx="12" fill="#ffffff" stroke="#d0d7de"/><rect width="4" height="102" rx="2" fill="#bf8700"/><text x="24" y="32" font-size="15" font-weight="650" fill="#24292f">04  AI-assisted Operations</text><text x="24" y="57" font-size="13" fill="#57606a">Smarter automation across cloud operations</text><text x="24" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#9a6700">AI Agents  ·  Automation  ·  AIOps</text></g>
+<path d="M132 205H1068" stroke="#afb8c1" stroke-width="2"/>
+<path d="M132 205H1068" stroke="#0969da" stroke-width="2" stroke-dasharray="2 12"/>
+
+<g transform="translate(112 205)"><circle r="25" fill="#fff" stroke="#0969da" stroke-width="3"/><circle r="7" fill="#0969da"/><text x="0" y="-45" text-anchor="middle" font-size="12" font-weight="700" fill="#0969da">01</text><text x="0" y="55" text-anchor="middle" font-size="15" font-weight="650" fill="#24292f">Cloud</text><text x="0" y="75" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#57606a">AWS · Azure</text></g>
+<g transform="translate(434 205)"><circle r="25" fill="#fff" stroke="#8250df" stroke-width="3"/><circle r="7" fill="#8250df"/><text x="0" y="-45" text-anchor="middle" font-size="12" font-weight="700" fill="#8250df">02</text><text x="0" y="55" text-anchor="middle" font-size="15" font-weight="650" fill="#24292f">Platform</text><text x="0" y="75" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#57606a">Kubernetes · IDP</text></g>
+<g transform="translate(766 205)"><circle r="25" fill="#fff" stroke="#1a7f37" stroke-width="3"/><circle r="7" fill="#1a7f37"/><text x="0" y="-45" text-anchor="middle" font-size="12" font-weight="700" fill="#1a7f37">03</text><text x="0" y="55" text-anchor="middle" font-size="15" font-weight="650" fill="#24292f">Delivery</text><text x="0" y="75" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#57606a">GitOps · CI/CD</text></g>
+<g transform="translate(1088 205)"><circle r="25" fill="#fff" stroke="#bf8700" stroke-width="3"/><circle r="7" fill="#bf8700"/><text x="0" y="-45" text-anchor="middle" font-size="12" font-weight="700" fill="#9a6700">04</text><text x="0" y="55" text-anchor="middle" font-size="15" font-weight="650" fill="#24292f">AI Ops</text><text x="0" y="75" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#57606a">Agents · Automation</text></g>
+
+<g transform="translate(54 130)"><text font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8b949e">FOUNDATION</text><text y="18" font-size="11" fill="#57606a">Infrastructure as Code</text></g>
+<g transform="translate(344 286)"><text font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8b949e">SYSTEMS</text><text y="18" font-size="11" fill="#57606a">Observability · Reliability</text></g>
+<g transform="translate(650 130)"><text font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8b949e">FLOW</text><text y="18" font-size="11" fill="#57606a">Progressive Delivery</text></g>
+<g transform="translate(900 286)"><text font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8b949e">NEXT</text><text y="18" font-size="11" fill="#57606a">Agentic Cloud Operations</text></g>
 </g>
 </svg>
