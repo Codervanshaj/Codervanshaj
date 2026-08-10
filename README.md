@@ -40,6 +40,15 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2.svg" alt="How I Work" width="100%" /></picture>
 </div>
 
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Contribution%20Activity&days=30&area=false&hide_border=true&radius=0&height=360&line=58a6ff&point=ffffff&color=8b949e&bg_color=00000000&title_color=58a6ff&text_color=8b949e&grid_color=30363d" alt="Detailed GitHub contribution activity for the last 30 days" width="100%" />
+</div>
+
+
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-12">
@@ -56,32 +65,14 @@
 <br/><br/>
 </div>
 
-## Explore
+
+
+##  Explore
 
 <div align="center">
 <a href="https://github.com/Codervanshaj?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 <a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://img.shields.io/badge/Featured%20Project-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Featured project" /></a>
 <a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://img.shields.io/badge/AI%20Supply%20Chain-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI Supply Chain" /></a>
-</div>
-
-<br/>
-<div align="center"><sub>Building systems that are easier to deploy, observe, and operate.</sub></div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/selected-work-dark.svg?v=20260810-1">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/selected-work.svg?v=20260810-1" alt="Selected Work: GitHub projects and engineering work" width="100%" />
-</picture>
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Contribution%20Activity&days=30&area=false&hide_border=true&radius=0&height=360&line=58a6ff&point=ffffff&color=8b949e&bg_color=00000000&title_color=58a6ff&text_color=8b949e&grid_color=30363d" alt="Detailed GitHub contribution activity for the last 30 days" width="100%" />
 </div>
 
 <br/>
