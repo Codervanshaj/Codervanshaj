@@ -30,14 +30,17 @@
 </div>
 
 <div align="center">
-### Technology Stack
+<h2>Technology Stack</h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/azure.svg" width="64" height="64" alt="Microsoft Azure" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/terraform/844FBA" width="62" height="62" alt="Terraform" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" width="68" height="68" alt="Docker" /></p>
 <p><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="62" height="62" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="72" height="72" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="64" height="64" alt="Prometheus" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/newrelic/1CE783" width="62" height="62" alt="New Relic" /></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/powershell.svg" width="64" height="64" alt="PowerShell" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" /></p>
 </div>
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v1-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v1.svg" alt="How I Work" width="100%" /></picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2-dark.svg">
+<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2.svg" alt="How I Work" width="100%" />
+</picture>
 </div>
 
 ## 📈 GitHub Activity
