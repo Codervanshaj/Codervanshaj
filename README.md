@@ -52,8 +52,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-7">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-7" alt="Currently Exploring: DevOps, cloud and what is next" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-8">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-8" alt="Currently Exploring: DevOps, cloud and what is next" width="100%" />
 </picture>
 </div>
 
