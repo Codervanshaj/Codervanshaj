@@ -50,45 +50,11 @@
 
 ---
 
-## Currently Exploring
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Platform Engineering**
-
-`Kubernetes` · `Internal Platforms`
-
-</td>
-<td width="50%" valign="top">
-
-**GitOps & Delivery**
-
-`Argo CD` · `Progressive Delivery`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Cloud Native Infrastructure**
-
-`Terraform` · `AWS` · `Azure`
-
-</td>
-<td width="50%" valign="top">
-
-**AI-assisted Operations**
-
-`AI Agents` · `Automation`
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-<sub>From infrastructure automation to intelligent, self-service platforms.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-1">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-1" alt="Currently Exploring: cloud-native systems, delivery and automation" width="100%" />
+</picture>
 </div>
 
 ---
