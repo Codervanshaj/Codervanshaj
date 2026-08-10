@@ -43,19 +43,55 @@
 </picture>
 </div>
 
-## GitHub Activity
-
 <div align="center">
+<h2>GitHub Activity</h2>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10" alt="GitHub contribution activity" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10&height=320">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10&height=320" alt="GitHub contribution activity" width="100%" />
 </picture>
 </div>
 
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Codervanshaj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=Codervanshaj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="165" alt="GitHub statistics" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Codervanshaj&layout=compact&hide_border=true&langs_count=8&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codervanshaj&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Top languages" />
+</picture>
+
 <br/>
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Codervanshaj&hide_border=true&theme=transparent">
+<img src="https://streak-stats.demolab.com?user=Codervanshaj&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</picture>
+</div>
+
 <div align="center">
-<sub>Recent commits, pull requests and repository activity, shown as a single activity timeline.</sub>
+<sub>Recent commits, pull requests, and contribution momentum, shown together for a clearer picture of activity.</sub>
+</div>
+
+<div align="center">
+<h2>Profile Overview</h2>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&theme=github" alt="Profile overview summary" width="100%" />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codervanshaj&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codervanshaj&theme=github" alt="Repositories per language" height="165" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codervanshaj&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codervanshaj&theme=github" alt="Most committed language" height="165" />
+</picture>
 </div>
 
 ---
