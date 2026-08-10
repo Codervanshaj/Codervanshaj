@@ -52,75 +52,43 @@
 
 ## Currently Exploring
 
-<div align="center">
-
-<table width="100%" cellpadding="16" cellspacing="0">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Platform Engineering
+**Platform Engineering**
 
-Building toward self-service infrastructure and internal developer platforms that make deployment and operations simpler, repeatable, and scalable.
-
-`Kubernetes` `Platform Engineering` `Developer Experience`
+`Kubernetes` · `Internal Platforms`
 
 </td>
 <td width="50%" valign="top">
 
-### GitOps & Delivery
+**GitOps & Delivery**
 
-Exploring declarative delivery models where infrastructure and applications move through version-controlled, automated workflows.
-
-`Argo CD` `GitOps` `CI/CD` `Progressive Delivery`
+`Argo CD` · `Progressive Delivery`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Cloud & Infrastructure
+**Cloud Native Infrastructure**
 
-Going deeper into cloud-native infrastructure, infrastructure as code, workload orchestration, and reliable multi-environment provisioning.
-
-`AWS` `Azure` `Terraform` `OpenTofu` `Kubernetes`
+`Terraform` · `AWS` · `Azure`
 
 </td>
 <td width="50%" valign="top">
 
-### Observability & Reliability
+**AI-assisted Operations**
 
-Moving beyond monitoring toward unified telemetry, actionable signals, and systems designed around reliability from the beginning.
-
-`OpenTelemetry` `Prometheus` `Grafana` `SLOs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### DevSecOps & Supply Chain
-
-Exploring security throughout the delivery lifecycle, from identity and secrets to software supply-chain integrity and policy-driven deployments.
-
-`DevSecOps` `SBOM` `Policy as Code` `Cloud Security`
-
-</td>
-<td width="50%" valign="top">
-
-### AI for DevOps
-
-Experimenting with AI-assisted operations, intelligent automation, and agentic workflows that can reason over infrastructure and delivery systems.
-
-`AI Agents` `Automation` `AIOps` `Cloud Operations`
+`AI Agents` · `Automation`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-**The direction:** from managing infrastructure to engineering the platforms, automation, and systems that make infrastructure easier to build, ship, and operate.
-
+<div align="center">
+<sub>From infrastructure automation to intelligent, self-service platforms.</sub>
 </div>
 
 ---
