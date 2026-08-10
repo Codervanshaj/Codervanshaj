@@ -67,12 +67,64 @@
 
 
 
-##  Explore
+## Explore
 
 <div align="center">
-<a href="https://github.com/Codervanshaj?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
-<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://img.shields.io/badge/Featured%20Project-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Featured project" /></a>
-<a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://img.shields.io/badge/AI%20Supply%20Chain-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI Supply Chain" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore-dark.svg?v=20260810-2">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore.svg?v=20260810-2" alt="Explore Vanshaj's repositories and featured work" width="100%" />
+</picture>
+</div>
+
+<br/>
+
+## Pinned
+
+<table width="100%" cellspacing="12" cellpadding="0">
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><strong>ZeroDrift-K8-Pipeline</strong></a><br/>
+<sub>GitOps-based Kubernetes delivery pipeline focused on reliable, repeatable deployments.</sub><br/><br/>
+<code>Kubernetes</code> <code>GitOps</code> <code>CI/CD</code>
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/Website-Cloning"><strong>Website-Cloning</strong></a><br/>
+<sub>Website recreation and visual implementation workflow for modern frontend development.</sub><br/><br/>
+<code>Web</code> <code>Frontend</code> <code>Automation</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/CI-CD-Yml-Pipelines"><strong>CI-CD-Yml-Pipelines</strong></a><br/>
+<sub>Reusable YAML pipeline work focused on automated build, test, and deployment workflows.</sub><br/><br/>
+<code>Azure DevOps</code> <code>YAML</code> <code>CI/CD</code>
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/Bicep-projects"><strong>Bicep-projects</strong></a><br/>
+<sub>Infrastructure-as-code experiments for provisioning and managing Azure resources.</sub><br/><br/>
+<code>Azure</code> <code>Bicep</code> <code>IaC</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/PowerShell-Scripts"><strong>PowerShell-Scripts</strong></a><br/>
+<sub>Automation scripts for infrastructure, administration, and repetitive engineering tasks.</sub><br/><br/>
+<code>PowerShell</code> <code>Automation</code> <code>DevOps</code>
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d; padding:18px; border-radius:6px;">
+<a href="https://github.com/Codervanshaj/Portfolio-webdev"><strong>Portfolio-webdev</strong></a><br/>
+<sub>Personal portfolio implementation exploring modern web development and presentation.</sub><br/><br/>
+<code>Web</code> <code>TypeScript</code> <code>Next.js</code>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<strong>GitHub Contributions</strong>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Contribution%20Activity&days=365&area=true&hide_border=true&radius=8&height=300&line=58a6ff&point=58a6ff&color=8b949e&bg_color=00000000&title_color=58a6ff&text_color=8b949e&grid_color=30363d" alt="GitHub contribution activity" width="100%" />
 </div>
 
 <br/>
