@@ -43,12 +43,22 @@
 </picture>
 </div>
 
-## 📈 GitHub Activity
+## GitHub Activity
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Codervanshaj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="165" alt="GitHub statistics" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codervanshaj&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Top languages" /><br/><img src="https://streak-stats.demolab.com?user=Codervanshaj&hide_border=true&theme=transparent" alt="GitHub contribution streak" /></div>
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=10" alt="GitHub contribution activity" width="100%" />
+</picture>
+</div>
 
-## 🐍 Contribution Trail
-<div align="center"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" /></div>
+<br/>
+
+<div align="center">
+<sub>Recent commits, pull requests and repository activity, shown as a single activity timeline.</sub>
+</div>
+
+---
 
 ## 🌐 Explore
 <div align="center"><a href="https://github.com/Codervanshaj?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a><a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://img.shields.io/badge/Featured%20Project-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Featured project" /></a><a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://img.shields.io/badge/AI%20Supply%20Chain-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI Supply Chain" /></a></div>
