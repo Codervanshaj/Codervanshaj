@@ -37,52 +37,21 @@
 </div>
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2-dark.svg">
-<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2.svg" alt="How I Work" width="100%" />
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/how-i-work-v2.svg" alt="How I Work" width="100%" /></picture>
 </div>
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Rhythm%20%E2%80%A2%20Last%2090%20Days&radius=10&height=340&days=90">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&bg_color=ffffff&color=57606a&line=0969da&point=24292f&area_color=54aeff&area=true&hide_border=true&custom_title=Contribution%20Rhythm%20%E2%80%A2%20Last%2090%20Days&radius=10&height=340&days=90" alt="GitHub contribution rhythm over the last 90 days" width="100%" />
-</picture>
-
-</div>
-
-<div align="center">
-<table width="92%">
-<tr>
-<td align="center" width="33%">
-<strong>CODE</strong><br/>
-<sub>Commits &amp; repository work</sub>
-</td>
-<td align="center" width="33%">
-<strong>COLLABORATE</strong><br/>
-<sub>Pull requests &amp; reviews</sub>
-</td>
-<td align="center" width="33%">
-<strong>IMPROVE</strong><br/>
-<sub>Issues, fixes &amp; iteration</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<p align="center"><sub>The graph shows the rhythm of public GitHub activity. The goal is consistency, not a contribution-count scoreboard.</sub></p>
+## 📈 GitHub Activity
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&theme=github_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&theme=github" alt="GitHub contribution overview by month" width="96%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&amp;theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&amp;theme=github" alt="GitHub contribution activity and profile summary" width="100%" />
 </picture>
 </div>
+
+<p align="center"><sub>Contributions across the year, with the activity pattern and repository-level contribution overview in one view.</sub></p>
 
 ---
 
@@ -128,17 +97,13 @@ I’m continuously experimenting with better ways to automate infrastructure, im
 
 ## 👀 Profile Views
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Codervanshaj&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="GitHub profile views" />
-</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Codervanshaj&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="GitHub profile views" /></div>
 
 ---
 
 ## 💬 Developer Note
 
-<div align="center">
-> **Build it clearly. Automate it carefully. Observe it continuously.**
-</div>
+<div align="center">> **Build it clearly. Automate it carefully. Observe it continuously.**</div>
 
 ---
 
