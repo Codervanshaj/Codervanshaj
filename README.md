@@ -60,9 +60,14 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore-dark.svg?v=20260810-2">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore.svg?v=20260810-2" alt="Explore Vanshaj's repositories and featured work" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore-dark.svg?v=20260810-3">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/explore.svg?v=20260810-3" alt="Explore Vanshaj's repositories and featured work" width="100%" />
 </picture>
+<br/>
+
+<a href="https://github.com/Codervanshaj?tab=repositories"><strong>VIEW ALL REPOSITORIES →</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><strong>FEATURED WORK →</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Codervanshaj?tab=repositories"><strong>EXPLORE CODE →</strong></a>
 </div>
 
 <br/>
