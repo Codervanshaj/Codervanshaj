@@ -47,38 +47,20 @@
 
 ---
 
-## 🚀 Featured Engineering
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1-dark.svg">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1.svg" alt="Projects: Zero-Drift K8 Pipeline and AI Supply Chain" width="100%" />
+</picture>
 
-### [Zero-Drift K8 Pipeline](https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline)
+<br/>
 
-**GitOps-driven Kubernetes delivery pipeline**
+<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline">Zero-Drift K8 Pipeline</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Codervanshaj/AI-Supply-Chain">AI Supply Chain</a>
 
-`GitHub Actions` → `Docker` → `Helm` → `Argo CD` → `Kubernetes`
-
-Terraform provisions the infrastructure while Argo CD continuously reconciles the desired state.
-
-**Focus:** GitOps · Kubernetes · IaC · CI/CD · Self-healing
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Supply Chain](https://github.com/Codervanshaj/AI-Supply-Chain)
-
-**AI-assisted supply-chain platform**
-
-A full-stack system combining **Next.js, FastAPI, PostgreSQL, Redis and AI workflows**, including persistent ERP ingestion and dynamic operational data.
-
-**Status:** Active build
-
-**Focus:** AI · APIs · Data workflows · Full-stack systems
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
