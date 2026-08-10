@@ -50,36 +50,6 @@
 
 ---
 
-## ✦ GitHub Highlights
-
-<div align="center">
-
-<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="34" height="34" alt="Kubernetes" /></a>
-&nbsp;&nbsp;&nbsp;
-<strong>Zero-Drift K8 Pipeline</strong>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://cdn.simpleicons.org/fastapi/009688" width="34" height="34" alt="FastAPI" /></a>
-&nbsp;&nbsp;&nbsp;
-<strong>AI Supply Chain</strong>
-
-<br/><br/>
-
-<a href="https://github.com/Codervanshaj/Portfolio-webdev"><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" /></a>
-&nbsp;&nbsp;&nbsp;
-<strong>Portfolio Development</strong>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Codervanshaj/CI-CD-Yml-Pipelines"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="34" height="34" alt="GitHub Actions" /></a>
-&nbsp;&nbsp;&nbsp;
-<strong>CI/CD Pipelines</strong>
-
-<br/><br/>
-
-<sub>Selected work and engineering areas from the repositories I actively build around.</sub>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 <div align="center">
