@@ -45,25 +45,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-
-**Contribution activity · Last 12 months**
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Daily%20contributions&days=365&area=true&hide_border=true&radius=8&height=280&point=ffffff&line=58a6ff&color=8b949e&bg_color=00000000" alt="Daily GitHub contribution activity over the last 12 months" width="100%" />
-
-<br/>
-
-<table align="center" cellpadding="8">
-<tr>
-<td align="center"><strong>17</strong><br/><sub>Public repositories</sub></td>
-<td width="20"></td>
-<td align="center"><strong>233</strong><br/><sub>Contributions shown</sub></td>
-<td width="20"></td>
-<td align="center"><strong>2022</strong><br/><sub>Joined GitHub</sub></td>
-</tr>
-</table>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Contribution%20Activity&days=30&area=false&hide_border=true&radius=0&height=360&line=58a6ff&point=ffffff&color=8b949e&bg_color=00000000&title_color=58a6ff&text_color=8b949e&grid_color=30363d" alt="Detailed GitHub contribution activity for the last 30 days" width="100%" />
 </div>
 
 ---
