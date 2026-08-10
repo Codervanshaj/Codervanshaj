@@ -52,8 +52,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-1">
-  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-1" alt="Currently Exploring: cloud-native systems, delivery and automation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring-dark.svg?v=20260810-2">
+  <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/currently-exploring.svg?v=20260810-2" alt="Currently Exploring: cloud-native systems and intelligent operations" width="100%" />
 </picture>
 </div>
 
