@@ -53,7 +53,8 @@
 ## 🏆 GitHub Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Codervanshaj&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=1&column=6" alt="GitHub trophies" width="100%" />
+<p><sub>Recognition across contributions, repositories and community activity</sub></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Codervanshaj&theme=flat&no-frame=true&no-bg=true&margin-w=18&margin-h=10&row=2&column=4&rank=SECRET,SSS,SS,S,A,B" alt="GitHub achievements and contribution trophies" width="92%" />
 </div>
 
 ---
