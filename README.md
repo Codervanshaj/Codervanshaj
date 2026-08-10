@@ -58,13 +58,6 @@
 <br/><br/>
 </div>
 
----
-
-## 👀 Profile Views
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Codervanshaj&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="GitHub profile views" /></div>
-
----
 
 ## 💬 Developer Note
 
