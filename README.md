@@ -33,7 +33,7 @@
 <h2>Technology Stack</h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/azure.svg" width="64" height="64" alt="Microsoft Azure" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/terraform/844FBA" width="62" height="62" alt="Terraform" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" width="68" height="68" alt="Docker" /></p>
 <p><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="62" height="62" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="72" height="72" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="64" height="64" alt="Prometheus" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/newrelic/1CE783" width="62" height="62" alt="New Relic" /></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/powershell.svg" width="64" height="64" alt="PowerShell" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/icons/powershell.svg" width="64" height="64" alt="PowerShell" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" alt="Git" /></p>
 </div>
 
 <div align="center">
@@ -50,13 +50,78 @@
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 <div align="center">
-`Kubernetes` · `Cloud Automation` · `Infrastructure as Code` · `CI/CD` · `Observability` · `AI-assisted DevOps`
-</div>
 
-I’m continuously experimenting with better ways to automate infrastructure, improve delivery pipelines, and make systems easier to operate.
+<table width="100%" cellpadding="16" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+### Platform Engineering
+
+Building toward self-service infrastructure and internal developer platforms that make deployment and operations simpler, repeatable, and scalable.
+
+`Kubernetes` `Platform Engineering` `Developer Experience`
+
+</td>
+<td width="50%" valign="top">
+
+### GitOps & Delivery
+
+Exploring declarative delivery models where infrastructure and applications move through version-controlled, automated workflows.
+
+`Argo CD` `GitOps` `CI/CD` `Progressive Delivery`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+
+Going deeper into cloud-native infrastructure, infrastructure as code, workload orchestration, and reliable multi-environment provisioning.
+
+`AWS` `Azure` `Terraform` `OpenTofu` `Kubernetes`
+
+</td>
+<td width="50%" valign="top">
+
+### Observability & Reliability
+
+Moving beyond monitoring toward unified telemetry, actionable signals, and systems designed around reliability from the beginning.
+
+`OpenTelemetry` `Prometheus` `Grafana` `SLOs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DevSecOps & Supply Chain
+
+Exploring security throughout the delivery lifecycle, from identity and secrets to software supply-chain integrity and policy-driven deployments.
+
+`DevSecOps` `SBOM` `Policy as Code` `Cloud Security`
+
+</td>
+<td width="50%" valign="top">
+
+### AI for DevOps
+
+Experimenting with AI-assisted operations, intelligent automation, and agentic workflows that can reason over infrastructure and delivery systems.
+
+`AI Agents` `Automation` `AIOps` `Cloud Operations`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**The direction:** from managing infrastructure to engineering the platforms, automation, and systems that make infrastructure easier to build, ship, and operate.
+
+</div>
 
 ---
 
