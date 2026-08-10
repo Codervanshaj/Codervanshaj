@@ -42,16 +42,29 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&amp;theme=github_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codervanshaj&amp;theme=github" alt="GitHub contribution activity and profile summary" width="100%" />
-</picture>
-</div>
 
-<p align="center"><sub>Contributions across the year, with the activity pattern and repository-level contribution overview in one view.</sub></p>
+**Contribution activity · Last 12 months**
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codervanshaj&custom_title=Daily%20contributions&days=365&area=true&hide_border=true&radius=8&height=280&point=ffffff&line=58a6ff&color=8b949e&bg_color=00000000" alt="Daily GitHub contribution activity over the last 12 months" width="100%" />
+
+<br/>
+
+<table align="center" cellpadding="8">
+<tr>
+<td align="center"><strong>17</strong><br/><sub>Public repositories</sub></td>
+<td width="20"></td>
+<td align="center"><strong>233</strong><br/><sub>Contributions shown</sub></td>
+<td width="20"></td>
+<td align="center"><strong>2022</strong><br/><sub>Joined GitHub</sub></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -63,8 +76,6 @@
 <img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </picture>
 </div>
-
-<p align="center"><sub>Automatically refreshed from the contribution graph through GitHub Actions.</sub></p>
 
 ---
 
