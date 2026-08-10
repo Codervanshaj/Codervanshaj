@@ -19,13 +19,10 @@
 
 </div>
 
----
-
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build" width="100%" /></picture>
 </div>
 
----
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1.svg" alt="Projects" width="100%" /></picture>
@@ -40,7 +37,6 @@
 </table>
 </div>
 
----
 
 <div align="center">
 
@@ -74,7 +70,6 @@
 
 </div>
 
----
 
 ## 🔄 How I Think About Engineering
 
@@ -82,7 +77,6 @@
 
 I care about the path from **code to a running system**, not just the individual tools in between.
 
----
 
 ## 📈 GitHub Activity
 
@@ -93,13 +87,10 @@ I care about the path from **code to a running system**, not just the individual
 <img src="https://streak-stats.demolab.com?user=Codervanshaj&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
----
-
 ## 🐍 Contribution Trail
 
 <div align="center"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" /></div>
 
----
 
 ## 🌐 Explore
 
