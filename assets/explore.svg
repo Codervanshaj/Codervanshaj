@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<rect width="1200" height="250" fill="#ffffff"/>
+<text x="48" y="48" fill="#57606a" font-family="monospace" font-size="13" letter-spacing="4">EXPLORE</text>
+<text x="48" y="91" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Build. Ship. Explore.</text>
+<line x1="48" y1="118" x2="1152" y2="118" stroke="#d0d7de" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="161" fill="#0969da" font-family="monospace" font-size="13">01</text>
+<text x="48" y="190" fill="#24292f" font-size="22" font-weight="700">Repositories</text>
+<text x="48" y="216" fill="#57606a" font-size="15">Browse everything I build and experiment with.</text>
+<text x="468" y="161" fill="#8250df" font-family="monospace" font-size="13">02</text>
+<text x="468" y="190" fill="#24292f" font-size="22" font-weight="700">Featured Work</text>
+<text x="468" y="216" fill="#57606a" font-size="15">Start with the projects closest to my current focus.</text>
+<text x="888" y="161" fill="#1a7f37" font-family="monospace" font-size="13">03</text>
+<text x="888" y="190" fill="#24292f" font-size="22" font-weight="700">Open Source</text>
+<text x="888" y="216" fill="#57606a" font-size="15">Explore code, automation, and infrastructure work.</text>
+</g>
+<line x1="420" y1="146" x2="420" y2="226" stroke="#d0d7de" stroke-width="1"/>
+<line x1="840" y1="146" x2="840" y2="226" stroke="#d0d7de" stroke-width="1"/>
+</svg>
