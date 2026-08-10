@@ -22,35 +22,28 @@
 ---
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build: Cloud Infrastructure, Delivery Automation, Reliability and Observability, and Engineering" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/what-i-build-v2.svg" alt="What I Build" width="100%" /></picture>
 </div>
 
 ---
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1.svg" alt="Projects: Zero-Drift K8 Pipeline and AI Supply Chain" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/projects-v1.svg" alt="Projects" width="100%" /></picture>
 
 <br/><br/>
 
 <table align="center" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="320">
-<a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="24" height="24" alt="Kubernetes" /><br/><strong>Zero-Drift K8 Pipeline</strong></a><br/><sub>GitOps · Kubernetes · CI/CD</sub>
-</td>
-<td width="24"></td>
-<td align="center" width="320">
-<a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://cdn.simpleicons.org/fastapi/009688" width="24" height="24" alt="FastAPI" /><br/><strong>AI Supply Chain</strong></a><br/><sub>AI · APIs · Data workflows</sub>
-</td>
+<td align="center" width="320"><a href="https://github.com/Codervanshaj/ZeroDrift-K8-Pipeline"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="24" height="24" alt="Kubernetes" /><br/><strong>Zero-Drift K8 Pipeline</strong></a><br/><sub>GitOps · Kubernetes · CI/CD</sub></td><td width="24"></td>
+<td align="center" width="320"><a href="https://github.com/Codervanshaj/AI-Supply-Chain"><img src="https://cdn.simpleicons.org/fastapi/009688" width="24" height="24" alt="FastAPI" /><br/><strong>AI Supply Chain</strong></a><br/><sub>AI · APIs · Data workflows</sub></td>
 </tr>
 </table>
 </div>
 
 ---
 
-## 🛠️ Technology Stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,helm,githubactions,jenkins,ansible,prometheus,grafana,python,powershell,typescript,nodejs,git&perline=8" alt="Technology stack" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v1-dark.svg"><img src="https://raw.githubusercontent.com/Codervanshaj/Codervanshaj/main/assets/tech-stack-v1.svg" alt="Technology Stack" width="100%" /></picture>
 </div>
 
 ---
